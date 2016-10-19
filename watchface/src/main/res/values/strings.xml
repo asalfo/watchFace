@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sunshine Watch Face</string>
+    <string name="my_digital_name">Sunshine</string>
+    <string name="time_format" translatable="false">%02d:%02d</string>
+    <string name="preference_file_key" translatable="false">com.example.android.sunshine.watch_preferences</string>
+    <string name="pref_icon_resource">icon_resource</string>
+    <string name="pref_high_temp">high_temp</string>
+    <string name="pref_low_temp">low_temp</string>
+</resources>
